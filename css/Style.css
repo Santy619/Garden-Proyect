@@ -1,0 +1,130 @@
+body{
+    background: url(../img/cuadro.JPG); 
+    background-size: cover;  
+}
+.avatar{
+    width: 120px;
+    height:120px ;
+    border-radius: 50% ;
+    margin-left: 30px;
+    margin-right: 10px;
+}
+.avatar{
+    width: 120px;
+    height:120px ;
+    border-radius: 50% ;
+    margin-left: 30px;
+    margin-right: 10px;
+}
+.btn_buscar{ 
+    
+    margin-right: 200px;   
+    padding: 12px 24px;    
+    border-radius: 8px;    
+    background: -moz-linear-gradient(top, #7ce93c, #4c8f25); 
+    font: normal normal normal 20px arial;
+    color: #ffffff;
+    text-shadow: #305a17 1px 1px 1px;
+    font: normal normal normal 20px arial;
+}
+
+.nav-item{
+    margin-left: 30px;    
+    padding: 12px 5 24px;
+    font: normal normal normal 20px arial;
+}
+
+.boton_buscar{
+    width: 600px;
+    margin: 10px;
+    margin-left: 100px;
+    padding: 12px 24px;
+    border-radius: 8px; 
+    text-align: center;
+    font: normal normal normal 20px arial;
+}
+
+
+.recuadro{
+    background: url(../img/fondo.jpg); 
+    width: 1000px;
+    height: 500px;
+    margin-top: 50px;
+    border-radius: 8px;
+    margin-left: 15px;
+}
+
+.login{
+    width: 100%;
+    height: 50%;   
+    left: 50%; top: 39.7%;
+    margin-bottom: 100%;
+    position: absolute;
+    transform: translate(-50%, -50%);    
+    padding: 70px 30px;
+}
+
+
+.login h1{
+    background: -moz-linear-gradient(top, #7ce93c, #4c8f25); 
+    margin-right: 50%;
+    border-radius: 8px;    
+    padding: 15px  25px;
+    font: normal normal normal 20px arial;
+    font-size: 20px;
+    color: white;
+    text-shadow: #305a17 1px 1px 1px;
+}
+
+
+.login input{
+    
+    color: rgb(0, 28, 243);
+    margin-top: 60px;
+    margin: 20px;
+    
+    padding: 0px 25px;
+    text-align: center;
+    font-size: 20px;
+    font: normal normal normal 30px arial;
+
+}
+
+.btn_log{
+    padding: 12px 24px;    
+    border-radius: 8px;    
+    background: -moz-linear-gradient(top, #7ce93c, #4c8f25); 
+    
+    font: normal normal normal 20px arial;
+    margin-left: 60px;
+    margin-top: 35%;
+    color: white;
+    text-shadow: #305a17 1px 1px 1px;
+    
+            
+    
+
+}
+
+.lk_olv{
+    text-decoration: none;
+    color: rgb(0, 28, 243);
+    font: normal normal normal 20px arial;
+    margin-left: 60px;
+    text-shadow: #ffffff 1px 1px 1px;
+    font: normal normal normal 30px arial;
+}
+
+.lk_crear{
+    margin-top: 10px;
+    text-decoration: none;
+    color: rgb(0, 28, 243);
+    text-shadow: #ffffff 1px 1px 1px;
+    font: normal normal normal 20px arial;
+    margin-left: 60px;
+    font: normal normal normal 30px arial;
+}
+.end{
+    padding-top: 10%;
+    
+}
